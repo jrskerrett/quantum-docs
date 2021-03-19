@@ -5,7 +5,7 @@ ms.author: anraman
 ms.date: 02/01/2021
 ms.service: azure-quantum
 ms.subservice: optimization
-ms.topic: article
+ms.topic: conceptual
 title: Install and use the Python SDK for optimization
 uid: microsoft.quantum.optimization.install-sdk
 ---
@@ -126,7 +126,7 @@ This method will submit the problem to Azure Quantum for optimization and synchr
 
 ### Documentation
 
-- [Solver overview](xref:microsoft.quantum.optimization.solver-overview)
+- [Solver overview](xref:microsoft.quantum.reference.target-list#optimization-targets)
 - [Expressing problems & supplying terms](xref:microsoft.quantum.optimization.express-problem)
 - [Interpreting solver results](xref:microsoft.quantum.optimization.understand-solver-results)
 - [Job management](xref:microsoft.quantum.optimization.job-management)
